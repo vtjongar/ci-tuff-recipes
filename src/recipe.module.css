@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Freckle+Face&display=swap');
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rbg(71, 71, 71);
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+
+  align-items: center;
+  width: 1200px;
+  height: 400px;
+  box-shadow: 3px 3px 3px 		#202020;
+
+  padding: 50px;
+background-color: beige;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+
+
+}
+
+
+
+
+.image{
+
+  width: 300px;
+  height: 300px;
+  border-radius: 5%;
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+  
+}
+h2 {
+  font-weight: bolder;
+}
+.title {
+border-right: 3px solid 		#202020;
+height: 150px;
+margin-right: 50px;
+padding: 50px;
+font-size: 30px;
+font-family: 'Freckle Face', cursive;
+
+}
+
+.list {
+  border-right: 3px solid black;
+  height: 250px;
+  margin-right: 20px;
+  padding-right: 50px;
+  font-size: 15px;
+
+  }
+
+  .calories {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
