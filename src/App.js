@@ -43,7 +43,7 @@ const App = () => {
       <form onSubmit={getSearch} className="search-form">
         <div className="container">
           <img className="tuff" src="/images/tuff.png" />
-          <h1 className="tuff-logo">Tuff!</h1>
+          <h1 className="tuff-logo">Tuff!!</h1>
         </div>
         <p>recipes</p>
         <input
